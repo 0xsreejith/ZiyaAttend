@@ -94,4 +94,19 @@ dependencies:
   get: ^4.6.5
 
  Developed As An Intern Task At [Ziya Academy]
-This project is licensed under the MIT License. See the LICENSE file for 
+
+---
+
+## 📸 Screenshots
+
+### 🔒 Home Page
+![Home Page](screenshots/output0.png)
+
+### 🔐 Signup Page
+![Signup Page](screenshots/output2.png)
+
+### 🔑 Login Page
+![Login Page](screenshots/output1.png)
+
+### 🔒 Forgot Password Page
+![Forgot Password Page](screenshots/output3.png)
