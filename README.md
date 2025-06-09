@@ -82,19 +82,6 @@ This project is a basic user authentication module built using **Flutter** for t
 
 ---
 
-## 🛠️ Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  firebase_core: ^2.0.0
-  firebase_auth: ^4.0.0
-  cloud_firestore: ^4.0.0
-  get: ^4.6.5
-
----
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -110,3 +97,15 @@ dependencies:
 ![Forgot Password Page](screenshots/output3.png)
 
 ---
+
+
+## 🛠️ Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.0.0
+  get: ^4.6.5
