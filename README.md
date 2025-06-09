@@ -93,9 +93,8 @@ dependencies:
   cloud_firestore: ^4.0.0
   get: ^4.6.5
 
- Developed As An Intern Task At [Ziya Academy]
-
 ---
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -109,3 +108,5 @@ dependencies:
 
 ### 🔒 Forgot Password Page
 ![Forgot Password Page](screenshots/output3.png)
+
+---
