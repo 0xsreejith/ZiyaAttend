@@ -96,10 +96,9 @@ dependencies:
  Developed As An Intern Task At [Ziya Academy]
 
 ---
-
 ## 📸 Screenshots
 
-### 🔒 Home Page
+### 🏠 Home Page
 ![Home Page](screenshots/output0.png)
 
 ### 🔐 Signup Page
