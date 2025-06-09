@@ -67,12 +67,23 @@ class HomePage extends StatelessWidget {
                   "Login Successful",
                   style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                 ),
+                const SizedBox(height: 50),
+                Container(
+                  height: 200,
+                  decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      image: DecorationImage(
+                          image: AssetImage("assets/images/logo.jpeg"))),
+                ),
                 const Divider(height: 40),
-                Text("Full Name: ${userModel.name}", style: const TextStyle(fontSize: 18)),
+                Text("Full Name: ${userModel.name}",
+                    style: const TextStyle(fontSize: 18)),
                 const SizedBox(height: 10),
-                Text("Email: ${userModel.email}", style: const TextStyle(fontSize: 18)),
+                Text("Email: ${userModel.email}",
+                    style: const TextStyle(fontSize: 18)),
                 const SizedBox(height: 10),
-                Text("Phone: ${userModel.mobile}", style: const TextStyle(fontSize: 18)),
+                Text("Phone: ${userModel.mobile}",
+                    style: const TextStyle(fontSize: 18)),
               ],
             ),
           );
